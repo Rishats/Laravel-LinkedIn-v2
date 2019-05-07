@@ -1,9 +1,7 @@
 ### Linkedin API v2 integration for Laravel Framework
 
-This package is a wrapper for [Rishats/LinkedIn-API-client-v2](https://github.com/Rishats/laravel-linkedin-v2).
+This package is a wrapper for [R-everse/linkedin-php](https://github.com/r-everse/linkedin-php).
 You can view the documentation for php version [here](https://github.com/Rishats/laravel-linkedin-v2/blob/master/README.md). Don't forget to consult the oficial [LinkedIn API](https://developer.linkedin.com/) site.
-
-###### If you need install on Lumen, go to [Lumen section](#installation-on-lumen)
 
 ### Installation on Laravel
 
@@ -24,7 +22,7 @@ with LinkedIn to receive an API key. Once you've registered your LinkedIn app, y
 an *API Key* and *Secret Key*, please fill this values on `linkedin-v2.php` config file.
 
 ####Basic Usage
-# Dev
+ In developing...
 
 
 #### Changelog
