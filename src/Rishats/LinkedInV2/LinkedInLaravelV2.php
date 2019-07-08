@@ -8,7 +8,7 @@
 
 namespace Rishats\LinkedInV2;
 
-use REverse\LinkedIn\Client;
+use Rishats\LinkedIn\Client;
 
 class LinkedInLaravelV2 extends Client
 {
@@ -18,7 +18,7 @@ class LinkedInLaravelV2 extends Client
      * @param string $clientId
      * @param string $clientSecret
      * @param string $redirectUri
-     * @throws \REverse\LinkedIn\Exception\RuntimeException
+     * @throws \Rishats\LinkedIn\Exception\RuntimeException
      */
     public function __construct(string $clientId, string $clientSecret,  string $redirectUri)
     {

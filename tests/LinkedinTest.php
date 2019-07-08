@@ -21,7 +21,7 @@ class LinkedinTest extends AbstractTestCase
 
         foreach($bindings as $binding) {
           $this->assertInstanceOf(
-              \REverse\LinkedIn\Client::class,
+              \Rishats\LinkedIn\Client::class,
               $binding
           );
         }
