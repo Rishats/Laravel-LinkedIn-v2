@@ -1,6 +1,6 @@
 ### Linkedin API v2 integration for Laravel Framework
 
-This package is a wrapper for [R-everse/linkedin-php](https://github.com/r-everse/linkedin-php).
+This package is a wrapper for [Rishats/linkedin-php](https://github.com/Rshats/linkedin-php).
 You can view the documentation for php version [here](https://github.com/Rishats/laravel-linkedin-v2/blob/master/README.md). Don't forget to consult the oficial [LinkedIn API](https://developer.linkedin.com/) site.
 
 ### Installation on Laravel
